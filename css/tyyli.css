@@ -15,9 +15,9 @@ border-width: 2px;
 width: 100px;  
 height: 100px;
 }
-ol{
+li{
 list-style-type: upper-latin;
 }
-ul{
+li{
 list-style-type: square;
 }
