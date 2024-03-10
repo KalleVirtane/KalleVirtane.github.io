@@ -1,5 +1,5 @@
 body{
-  background-image: src="/photos/view2.GIF"
+  background-image: url("view2.GIF");
   color: black;
 }
 h1{
