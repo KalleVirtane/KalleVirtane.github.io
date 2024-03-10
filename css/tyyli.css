@@ -25,6 +25,8 @@ ul{
 list-style-type: square;
 }
 .div2{
+font-size: 25px;
+color: red;
 vertical-align: top;
 text-align: left;
 }
