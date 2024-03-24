@@ -18,7 +18,7 @@ p{}
   border: solid white 5px;
 }
 a:hover {
-  color: red;
+  color: yellow;
 }
 .section{
   float: right;
