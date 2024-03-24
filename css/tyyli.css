@@ -11,7 +11,7 @@ p{}
   color: Black;}
 .nav{
   float: left;
-  width: 30%;
+  width: 20%;
   height: 300px;
   background: Green;
   padding: 20px;
@@ -19,7 +19,8 @@ p{}
 }
 .section{
   float: right;
-  width:70%;
+  text-align: left;
+  width:80%;
   border: dotted 5px;
 .downline{
   float: down;
