@@ -13,7 +13,7 @@ p{}
   float: left;
   width: 20%;
   height: 300px;
-  background: Green;
+  background-color: Green;
   padding: 20px;
   border: solid white 5px;
 }
@@ -26,8 +26,8 @@ p{}
 .downline{
   float: down;
   width: 100%;
-  background: black;
-  color: white;
+  background-color: black;
+  text-color: white;
 }
 .div1{
 float: right;
