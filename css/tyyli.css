@@ -28,7 +28,7 @@ a:hover {
   border-width: 2px;
 }
 .downline{
-  float: down;
+  margin: down;
   width: 100%;
   background-color: black;
   text-color: white;
