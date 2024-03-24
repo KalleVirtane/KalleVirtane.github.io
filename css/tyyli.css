@@ -20,6 +20,8 @@ p{}
   nav:hover {
   color: red;
 }
+a:hover {
+  color: red;
 .section{
   float: right;
   text-align: left;
