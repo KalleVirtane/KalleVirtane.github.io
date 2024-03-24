@@ -28,6 +28,9 @@ a:hover {
   border-width: 2px;
 }
 footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
   text-align: center;
   padding: 3px;
   background-color: black;
