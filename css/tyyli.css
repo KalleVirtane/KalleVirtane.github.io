@@ -17,9 +17,6 @@ p{}
   padding: 20px;
   border: solid white 5px;
 }
-  nav:hover {
-  color: red;
-}
 a:hover {
   color: red;
 }
