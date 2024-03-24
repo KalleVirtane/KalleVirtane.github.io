@@ -16,9 +16,9 @@ p{}
   background-color: Green;
   padding: 20px;
   border: solid white 5px;
-  a:hover {
-  color: red;
 }
+  nav:hover {
+  color: red;
 }
 .section{
   float: right;
