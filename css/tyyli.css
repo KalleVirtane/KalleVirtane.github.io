@@ -27,11 +27,11 @@ a:hover {
   border-style: solid;
   border-width: 2px;
 }
-.downline{
-  margin: down;
-  width: 100%;
+footer {
+  text-align: center;
+  padding: 3px;
   background-color: black;
-  text-color: white;
+  color: white;
 }
 .div1{
 float: right;
