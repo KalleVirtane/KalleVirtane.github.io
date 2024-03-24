@@ -4,27 +4,31 @@ h1{}
 p{}
 
 .header{
-  background-color: #666;
+  background-color: light green;
   padding: 30px;
   text-align: center;
   font-size: 35px;
-  color: white;}
+  color: Black;}
 .nav{
   float: left;
   width: 30%;
   height: 300px;
-  background: #ccc;
+  background: Green;
   padding: 20px;
-  border: solid white 5px
+  border: solid white 5px;
 }
 .section{
   float: right;
-  width:70%
-  border: dotted 5px
-  
-  
+  width:70%;
+  border: dotted 5px;
+.downline{
+  float: down;
+  width: 100%;
+  background: black;
+  color: white;
 }
 .div1{
+float: right;
 color: red;
 border-style: dotted;
 border-width: 2px;
