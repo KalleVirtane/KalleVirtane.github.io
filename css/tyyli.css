@@ -9,10 +9,10 @@ body{
   color: Black;}
 .nav{
   float: left;
-  width: 20px;
+  width: 20%;
   background-color: Green;
   padding: 20px;
-  border: solid white 5px;
+  border: black 5px;
 }
 a:hover {
   color: red;
@@ -20,7 +20,6 @@ a:hover {
 .section{
   float: right;
   text-align: left;
-  width:56px;
   border-style: solid;
   border-width: 2px;
 }
