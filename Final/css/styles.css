@@ -60,31 +60,14 @@ a:hover{
   background-color: black;
   color: white;
 }
-.div1{
-margin-left: 10%;
-color: red;
-border-style: dotted;
-border-width: 2px;
-width: 100px;  
-height: 100px;
-}
+
 ol{
 list-style-type: upper-latin;
 }
 ul{
 list-style-type: square;
 }
-.div2{
-  margin-left: 10%;
-border-style: dotted;
-border-width: 2px;
-width: 100px;  
-height: 100px;
-font-size: 25px;
-color: red;
-vertical-align: top;
-text-align: center;
-}
+
 .index{
   margin-left: 10%;
   text-alling: center;
@@ -101,6 +84,7 @@ font-size: 20px;
   margin-left: 10%;
   text-alling: left;
   font-size: 20px;
+  Float: left;
 
 }
 .adress{
