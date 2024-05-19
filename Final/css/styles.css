@@ -47,7 +47,7 @@ a:hover {
   border-width: 2px;
 }
 .footer {
-  min-height: 10px;
+  height: 10px;
   display: flex;
   flex-direction: column;
   width: 100%;
