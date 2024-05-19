@@ -1,12 +1,14 @@
 body{
   font-family: Arial, Helvetica, sans-serif;}
-
+margin-left: 25%;
+}
 .header{
   background-image: src="/photos/Win.GIF";
   padding: 30px;
   text-align: center;
   font-size: 50px;
-  color: pink;}
+  color: pink;
+}
 
 .nav{
 
