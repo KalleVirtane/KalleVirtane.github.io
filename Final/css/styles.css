@@ -51,7 +51,7 @@ a:hover{
   border-width: 2px;
 }
 .footer {
-  position: absolute;
+  position: bottom;
   bottom: 0;
   width: 100%;
   text-align: center;
