@@ -29,7 +29,7 @@ a:hover{
   border-style: solid;
   border-width: 2px;
 }
-.footer{
+footer{
   height: 10px;
   display: flex;
   flex-direction: column;
