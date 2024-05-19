@@ -2,11 +2,11 @@ body{
   font-family: Arial, Helvetica, sans-serif;}
 
 .header{
-  background-color: blue;
+  background-image: url("photos/Win.PNG");
   padding: 30px;
   text-align: center;
-  font-size: 35px;
-  color: Black;}
+  font-size: 50px;
+  color: pink;}
 .nav{
   float: left;
   width: 20%;
