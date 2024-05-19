@@ -17,10 +17,10 @@ ul {
   padding: 0;
   width: 10%;
   background-color: #f1f1f1;
-  position: ;
+  position: sticky;
   height: 100%;
   overflow: auto;
-  padding-bottom: 100px;
+  padding-bottom: 1000px;
 }
 
 li a {
