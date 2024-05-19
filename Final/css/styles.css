@@ -4,9 +4,9 @@ body{
 }
 .header{
   background-color: teal;
-  padding: 30px;
+  padding: 20px;
   text-align: center;
-  font-size: 50px;
+  font-size: 40px;
   color: pink;
 }
  
@@ -53,6 +53,7 @@ a:hover{
   border-width: 2px;
 }
 .footer {
+  
   margin-top: auto;
   width: 100%;
   text-align: center;
