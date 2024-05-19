@@ -17,7 +17,7 @@ ul {
   padding: 0;
   width: 10%;
   background-color: #f1f1f1;
-  position: sticky;
+  position: fixed;
   height: 100%;
   overflow: auto;
   padding-bottom: 1000px;
