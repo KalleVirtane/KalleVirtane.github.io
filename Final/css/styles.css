@@ -52,7 +52,7 @@ li a:hover:not(.active) {
 }
 .footer {
   bottom: 0;
-  
+  position: fixed;
   margin-top: auto;
   width: 100%;
   text-align: center;
