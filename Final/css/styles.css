@@ -2,7 +2,7 @@ body{
   font-family: Arial, Helvetica, sans-serif;}
 
 .header{
-  background-image: src="/photos/Win.GIF";
+  background-color: teal;
   padding: 30px;
   text-align: center;
   font-size: 50px;
