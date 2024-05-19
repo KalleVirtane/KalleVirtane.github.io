@@ -94,8 +94,12 @@ text-align: center;
 margin-left: 10%;
 }
 .info{
-text-aling: center;
-font-size: 5px;
+text-alling: center;
+font-size: 20px;
 }
+.table{
+  margin-left: 10%;
+  text-alling: left;
 
+}
 
