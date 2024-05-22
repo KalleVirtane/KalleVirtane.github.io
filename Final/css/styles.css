@@ -21,7 +21,6 @@ ul {
   position: fixed;
   height: 100%;
   overflow: auto;
-  ---padding-bottom: 1000px;---
 }
 
 li a {
