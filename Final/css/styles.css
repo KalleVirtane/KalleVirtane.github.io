@@ -70,14 +70,14 @@ list-style-type: square;
 
 .index{
   margin-left: 10%;
-  text-aling: center;
+  text-align: center;
   
 }
 .row{
 margin-left: 10%;
 }
 .info{
-text-aling: center;
+text-align: center;
 font-size: 20px;
 }
 .table{
@@ -88,11 +88,11 @@ font-size: 20px;
 }
 .adress{
  margin-left: 10%;
-  text-aling: left;
+  text-align: left;
   font-size: 20px;
 }
 .info{
    margin-left: 10%;
-  text-aling: center;
+  text-align: center;
   font-size: 25px;
 }
